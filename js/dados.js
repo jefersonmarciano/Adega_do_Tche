@@ -2,93 +2,93 @@ var MENU = {
     "churrasco": [
         {
             "id": "ribs-brisket-and-burnt-ends",
-            "img": "./img/cardapio/churrasco/joes-kc-ribs-brisket-and-burnt-ends.6710e994980e485e6441b794717ad6fb.jpg",
-            "name": "Joe's KC BBQ",
-            "dsc": "Joe's KC Ribs, Brisket & Burnt Ends",
-            "price": 110.99
+            "img": "./img/Cardapio1/refri/refrigerante-pet-200ml-coca-cola-un-41e9b93d84.jpg",
+            "name": "Coca 200 ml",
+            "dsc": "Coca 200 ml",
+            "price": 2.50
         },
         {
             "id": "005-kings-carolina-oink-sampler",
-            "img": "./img/cardapio/churrasco/carolina-bbq-oink-sampler.1340b5a10cedc238cb2280306dd1d5a5.jpg",
-            "name": "Kings BBQ",
-            "dsc": "Carolina BBQ Oink Sampler",
-            "price": 89
+            "img": "./img/Cardapio1/refri/Antárctica  Guaraná 200 ml.webp",
+            "name": "Antárctica Guaraná 200ml",
+            "dsc": "Antárctica Guaraná 200ml",
+            "price": 2.50
         },
         {
             "id": "texas-monthlys-1-bbq-brisket",
-            "img": "./img/cardapio/churrasco/texas-monthlys-1-bbq-brisket.1006a061be7acae03992e420fbca995a.jpg",
-            "name": "Snow's BBQ",
-            "dsc": "Texas Monthly's #1 BBQ Brisket",
-            "price": 199
+            "img": "./img/Cardapio1/refri/Fanta Laranja 200ml.jpg",
+            "name": "Fanta Laranja 200ml",
+            "dsc": "Fanta Laranja 200ml",
+            "price": 2.50
         },
         {
             "id": "whole-brisket-texas-bbq-sauce",
-            "img": "./img/cardapio/churrasco/whole-brisket-texas-barbecue-bbq-sauce.e07ee4818b20ed43d217bf67fedd41ce.jpg",
-            "name": "Franklin Barbecue",
-            "dsc": "Whole Brisket + Texas Barbecue BBQ Sauce",
-            "price": 249
+            "img": "./img/Cardapio1/refri/SUKITA UVA 200ML.jpg",
+            "name": "Sukita Uva 200ML",
+            "dsc": "Sukita Uva 200ML",
+            "price": 2.50
         },
         {
             "id": "whole-texas-smoked-brisket",
-            "img": "./img/cardapio/churrasco/whole-texas-smoked-brisket.a5558a25381e271408e197936e7985d8.jpg",
-            "name": "Terry Black's Barbecue",
-            "dsc": "Whole Texas Smoked Brisket",
-            "price": 189
+            "img": "./img/Cardapio1/refri/Refrigerante Conquista Guaraná.avif",
+            "name": "Conquista Guaraná 2 Litros",
+            "dsc": "Conquista Guaraná 2 Litros",
+            "price": 6
         },
         {
             "id": "mini-trinity-bbq-combo-brisket-ribs-and-links",
-            "img": "./img/cardapio/churrasco/mini-trinity-bbq-combo-brisket-ribs-and-links.245582f593bf64b23b57dfca2be18cfd.jpg",
-            "name": "Bludso's BBQ",
-            "dsc": "Mini Trinity BBQ Combo - Brisket, Ribs & Links",
-            "price": 139
+            "img": "./img/Cardapio1/refri/Refrigerante Conquista Cola 2 Litros.webp",
+            "name": "Conquista Cola 2 Litros",
+            "dsc": "Conquista Cola 2 Litros",
+            "price": 6
         },
         {
             "id": "235203-blue-smoke-baby-back-ribs-backyard-barbecue-chicken-combo",
-            "img": "./img/cardapio/churrasco/blue-smoke-baby-back-ribs-backyard-barbecue-chicken-combo.a95a3e632ae324f719738a2a5c1dff6e.jpg",
-            "name": "Blue Smoke",
-            "dsc": "Blue Smoke Baby Back Ribs + Backyard Barbecue Chicken Combo",
-            "price": 129
+            "img": "./img/Cardapio1/refri/Refrigerante Conquista Laranja.avif",
+            "name": "Conquista Laranja 2 Litros",
+            "dsc": "Conquista Laranja 2 Litros",
+            "price": 6
         },
         {
             "id": "006-kings-meat-lovers-special",
-            "img": "./img/cardapio/churrasco/bbq-meat-lovers-special-for-10.36ca670fda4bfa783c2ea9165e068d26.jpg",
-            "name": "Kings BBQ",
-            "dsc": "BBQ Meat Lovers Special for 10",
-            "price": 139
+            "img": "./img/Cardapio1/refri/Refrigerante Conquista Limão.webp",
+            "name": "Conquista Limão 2 Litros",
+            "dsc": "Conquista Limão 2 Litros",
+            "price": 6
         },
         {
             "id": "the-big-ugly-bbq-dinner-for-6",
-            "img": "./img/cardapio/churrasco/the-big-ugly-bbq-dinner-for-6.2dfae7818811adddce85cc1a910881a0.jpg",
-            "name": "Ugly Drum",
-            "dsc": "The Big Ugly BBQ Dinner for 6",
-            "price": 229
+            "img": "./img/Cardapio1/refri/Refrigerante Coca-Cola Pet 2.jpg",
+            "name": "Coca-Cola Pet 2 Litros",
+            "dsc": "Coca-Cola Pet 2 Litros",
+            "price": 12
         },
         {
             "id": "17796-mighty-quinns-bbq-sampler-pack",
-            "img": "./img/cardapio/churrasco/mighty-quinns-bbq-sampler-pack.1bfe4a0665edc565756f5241bf25840e.jpg",
-            "name": "Mighty Quinn's BBQ",
-            "dsc": "Mighty Quinn's BBQ Sampler Pack",
-            "price": 169
+            "img": "./img/Cardapio1/refri/Energético Fera Energy Drink 250ml.avif",
+            "name": "Energético Fera Tradicional",
+            "dsc": "Energético Fera Tradicional",
+            "price": 3
         },
         {
             "id": "post-oak-smoked-half-brisket",
-            "img": "./img/cardapio/churrasco/post-oak-smoked-usda-prime-half-brisket.6f17178dde7d806670bcc73ff11762b3.jpg",
-            "name": "Southside Market & Barbeque",
-            "dsc": "Post Oak Smoked USDA Prime Half Brisket",
-            "price": 109
+            "img": "./img/Cardapio1/refri/Energético Pink Lemonade Fera.avif",
+            "name": "Energético Pink Lemonade Fera",
+            "dsc": "Energético Pink Lemonade Fera",
+            "price": 3
         },
         {
             "id": "best-of-texas-bbq-combo-serves-14",
-            "img": "./img/cardapio/churrasco/best-of-texas-bbq-combo-serves-14.7ae90266335e539c67e77fed14b43029.jpg",
-            "name": "Snow's BBQ",
-            "dsc": "Best of Texas BBQ Combo - Serves 14",
-            "price": 269
+            "img": "./img/Cardapio1/refri/Energético Conquista Fera 2L.jpg",
+            "name": "Energético Fera 2L",
+            "dsc": "Energético Fera 2L",
+            "price": 10
         }
     ],
     "cerveja": [
         {
             "id": "Cerveja_Original_lata",
-            "img": "./img/Cardapio1/cervejas/Cerveja _Subzero_Lata_350ml.webp",
+            "img": "./img/Cardapio1/cervejas/Cerveja_Original_lata.webp",
             "name": "Cerveja Original lata 350ml",
             "dsc": "Cerveja Original 350ml",
             "price": 5
@@ -101,14 +101,14 @@ var MENU = {
             "price": 4
         },
         {
-            "id": "Cerveja Brahma lata",
+            "id": "Cerveja_Brahma_lata",
             "img": "./img/Cardapio1/cervejas/Cerveja _Brahma_Lata_350 ml.jpg",
             "name": "Cerveja Brahma lata 350ml",
             "dsc": "Cerveja Brahma lata",
             "price": 4
         },
         {
-            "id": "Cerveja Subzero lata 350ml",
+            "id": "Cerveja_Subzero_lata_350ml",
             "img": "./img/Cardapio1/cervejas/Cerveja _Subzero_Lata_350ml.webp",
             "name": "Cerveja Subzero lata 350ml",
             "dsc": "Cerveja Subzero lata 350ml",
@@ -122,7 +122,7 @@ var MENU = {
             "price": 3.50
         },
         {
-            "id": "21-usda-prime-burgers-pack-of-18-8oz-each",
+            "id": "Cerveja_Brahma_Retornável_300ml",
             "img": "./img/Cardapio1/cervejas/Cerveja_Brahma_Retornável_300 ml.jpeg",
             "name": "Cerveja Brahma Retornável 300ml",
             "dsc": "Cerveja Brahma Retornável 300ml",
@@ -402,7 +402,7 @@ var MENU = {
             "price": 20
         },
         {
-            "id": "plain-thin-crust-pizza-4-pack",
+            "id": "Campo_Largo_Tinto_Seco",
             "img": "./img/Cardapio1/bebida/Vinho Campo Largo Tinto Seco.jpg",
             "name": "Campo Largo Tinto Seco",
             "dsc": "Campo Largo Tinto Seco",
@@ -412,6 +412,92 @@ var MENU = {
 
     ],
     "steaks": [
+        {
+            "id": "california-reserve-filet-mignon-steaks-gift-box",
+            "img": "./img/cardapio/steaks/california-reserve-filet-mignon-steaks-gift-box.bf226e317aad85f47897ae7e325f790d.jpg",
+            "name": "Flannery Beef",
+            "dsc": "California Reserve Filet Mignon Steaks Gift Box",
+            "price": 129
+        },
+        {
+            "id": "steaks-and-cakes-date-night-dinner-for-2",
+            "img": "./img/cardapio/steaks/valentines-steaks-and-cakes-dinner-for-2.0c63dab635eed46209455dc33cd25ea8.jpg",
+            "name": "Chesapeake Bay Gourmet",
+            "dsc": "Steaks and Cakes Date Night Dinner for 2",
+            "price": 129
+        },
+        {
+            "id": "Prime-holiday-steak-sampler-for-10-12",
+            "img": "./img/cardapio/steaks/holiday-sampler-9-pack.2de75ca80282ffe9d064eb757ff7a5a1.jpg",
+            "name": "Saltbrick Prime",
+            "dsc": "Chef Matt's Steak Sampler for 10-12",
+            "price": 179
+        },
+        {
+            "id": "bone-in-rib-steak",
+            "img": "./img/cardapio/steaks/bone-in-rib-steak.b13d9d4233035767605f0de9acdce1ab.jpg",
+            "name": "Old Homestead Steakhouse",
+            "dsc": "Bone-in Rib Steak",
+            "price": 159
+        },
+        {
+            "id": "american-wagyu-gold-grade-top-sirloins",
+            "img": "./img/cardapio/steaks/american-wagyu-gold-grade-sirloins.040dbeb8f8e615b91fa7e513e3dc089c.jpg",
+            "name": "Snake River Farms",
+            "dsc": "American Wagyu Gold Grade Top Sirloins",
+            "price": 119
+        },
+        {
+            "id": "2-peter-luger-steak-pack-b",
+            "img": "./img/cardapio/steaks/peter-luger-steak-pack-b.9feb0300e6be2dfecfa314f2006a2183.jpg",
+            "name": "Peter Luger Steak House",
+            "dsc": "Peter Luger Porterhouse Steaks",
+            "price": 215.95
+        },
+        {
+            "id": "ribeye-prime-steak-gift-box",
+            "img": "./img/cardapio/steaks/ribeye-prime-steak-gift-box.e74cb016baabbb2df73861de8150f29c.jpg",
+            "name": "Churchill's Steakhouse",
+            "dsc": "Ribeye Prime Steak Gift Box",
+            "price": 229
+        },
+        {
+            "id": "dry-aged-usda-prime-black-angus-porterhouse-steak-2-pack",
+            "img": "./img/cardapio/steaks/usda-prime-black-angus-filet-mignon-barrel-cut.6ee213799e7d1848763d12edca18e3b1.jpg",
+            "name": "Pat LaFrieda Meats",
+            "dsc": "Dry-Aged USDA Prime Black Angus Porterhouse Steak - 2 Pack",
+            "price": 96.7
+        },
+        {
+            "id": "california-reserve-ribeye-steak",
+            "img": "./img/cardapio/steaks/california-reserve-ribeye-steak-12-oz.d367c5ae72dd9f89e170662104bef4fc.jpg",
+            "name": "Flannery Beef",
+            "dsc": "California Reserve Ribeye Steak - 12 oz",
+            "price": 32
+        },
+        {
+            "id": "dry-aged-boneless-ribeye-steak-dinner-kit-for-4",
+            "img": "./img/cardapio/steaks/dry-aged-boneless-ribeye-steak-dinner-for-4.81c3bdc05fe6bdb2c2214709863120e0.jpg",
+            "name": "Chef Francis Mallmann",
+            "dsc": "Dry-Aged Boneless Ribeye Steak Dinner Kit for 4",
+            "price": 225
+        },
+        {
+            "id": "california-reserve-filet-mignon-steak",
+            "img": "./img/cardapio/steaks/california-reserve-filet-mignon-steak.ff15071964ec8141d30c2ba05fb117e0.jpg",
+            "name": "Flannery Beef",
+            "dsc": "California Reserve Filet Mignon Steak",
+            "price": 22
+        },
+        {
+            "id": "mesquite-smoked-peppered-beef-tenderloin",
+            "img": "./img/cardapio/steaks/mesquite-smoked-peppered-beef-tenderloin.5c314418a1f75c7057eed686e2fad46f.jpg",
+            "name": "Perini Ranch Steakhouse",
+            "dsc": "Mesquite Smoked Peppered Beef Tenderloin",
+            "price": 165
+        }
+    ],
+    "diversos": [
         {
             "id": "california-reserve-filet-mignon-steaks-gift-box",
             "img": "./img/cardapio/steaks/california-reserve-filet-mignon-steaks-gift-box.bf226e317aad85f47897ae7e325f790d.jpg",

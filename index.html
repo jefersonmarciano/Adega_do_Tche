@@ -30,7 +30,7 @@
             <div class="container">
                 <nav class="navbar navbar-expand-lg pl-0 pr-0 col-one">
                     <a class="navbar-brand wow fadeIn" href="#">
-                        <img src="./img/logo.png" width="160" class="img-logo" />
+                        <img src="./img/logo2.png" width="160" class="img-logo" />
                     </a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown">
                         <span class="navbar-toggler-icon">
@@ -78,7 +78,8 @@
                                     <span class="icon-left">
                                         <i class="fa fa-phone"></i>
                                     </span>
-                                    (14) 99163-2269
+                                    (14) 99624-8826
+                                    
                                 </a>
                             </div>
                         </div>
@@ -125,7 +126,7 @@
                         </h1>
                     </div>
 
-                    <div class="col-12 col-lg-4 col-md-4 col-sm-12 col-one mb-5 wow fadeInUp">
+                    <div class="col-12 col-lg-6 col-md-4 col-sm-12 col-one mb-5 wow fadeInUp">
                         <div class="card-icon text-center">
                             <img src="./img/icone-pedido.svg" width="150" />
                         </div>
@@ -137,19 +138,9 @@
                         </div>
                     </div>
 
-                    <div class="col-12 col-lg-4 col-md-4 col-sm-12 col-one mb-5 wow fadeInUp">
-                        <div class="card-icon text-center">
-                            <img src="./img/icone-delivery.svg" width="250" />
-                        </div>
-                        <div class="card-text text-center mt-3">
-                            <p><b>Entrega rápida</b></p>
-                            <span>
-                                Nossa entrega é sempre pontual, rápida e segura.
-                            </span>
-                        </div>
-                    </div>
+                    
 
-                    <div class="col-12 col-lg-4 col-md-4 col-sm-12 col-one mb-5 wow fadeInUp">
+                    <div class="col-12 col-lg-6 col-md-4 col-sm-12 col-one mb-5 wow fadeInUp">
                         <div class="card-icon text-center">
                             <img src="./img/icone-qualidade.svg" width="250" />
                         </div>
@@ -198,6 +189,9 @@
                         </a>
                         <a id="menu-sobremesas" class="btn btn-white btn-sm mr-3" onclick="cardapio.metodos.obterItensCardapio('sobremesas')">
                             <i class="fas fa-ice-cream"></i>&nbsp; SORVETES
+                        </a>
+                        <a id="menu-diversos" class="btn btn-white btn-sm mr-3" onclick="cardapio.metodos.obterItensCardapio('diversos')">
+                            <i class="fas fa-ice-cream"></i>&nbsp; DIVERSOS
                         </a>
                     </div>
                     
@@ -365,8 +359,8 @@
                     </a>
                     <div class="etapas">
                         <div class="etapa etapa1 active">1</div>
-                        <div class="etapa etapa2">2</div>
-                        <div class="etapa etapa3">3</div>
+                        
+                        <div class="etapa etapa3">2</div>
                     </div>
                     <p class="title-carrinho mt-4">
                         <b id="lblTituloEtapa">Seu carrinho:</b>
@@ -481,23 +475,9 @@
                             </div>
                         </div>
 
-                        <div class="col-12">
-                            <p class="title-carrinho mt-4">
-                                <b>Local da entrega:</b>
-                            </p>
-                        </div>
+                        
 
-                        <div class="col-12 item-carrinho resumo">
-                            <div class="img-map">
-                                <i class="fas fa-map-marked-alt"></i>
-                            </div>
-                            <div class="dados-produto">
-                                <p class="texto-endereco">
-                                    <b id="resumoEndereco"></b>
-                                </p>
-                                <p class="cidade-endereco" id="cidadeEndereco"></p>
-                            </div>
-                        </div>
+                       
 
                     </div>
 
@@ -511,10 +491,7 @@
                             <span>Subtotal:</span>
                             <span id="lblSubTotal">R$ 0,00</span>
                         </p>
-                        <p class="mb-0 texto-entrega">
-                            <span><i class="fas fa-motorcycle"></i> Entrega:</span>
-                            <span id="lblValorEntrega">+ R$ 0,00</span>
-                        </p>
+                        
                         <p class="mb-0 texto-total">
                             <span><b>Total:</b></span>
                             <span class="valor-total"><b id="lblValorTotal">R$ 0,00</b></span>

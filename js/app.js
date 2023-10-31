@@ -188,19 +188,18 @@ cardapio.metodos = {
         }
         
         if (etapa == 2) {
-            $("#lblTituloEtapa").text('Endereço de entrega:');
-            $("#itensCarrinho").addClass('hidden');
-            $("#localEntrega").removeClass('hidden');
+            $("#lblTituloEtapa").text('Seu carrinho:');
+            $("#itensCarrinho").removeClass('hidden');
+            $("#localEntrega").addClass('hidden');
             $("#resumoCarrinho").addClass('hidden');
 
             $(".etapa").removeClass('active');
             $(".etapa1").addClass('active');
-            $(".etapa2").addClass('active');
 
-            $("#btnEtapaPedido").addClass('hidden');
-            $("#btnEtapaEndereco").removeClass('hidden');
+            $("#btnEtapaPedido").removeClass('hidden');
+            $("#btnEtapaEndereco").addClass('hidden');
             $("#btnEtapaResumo").addClass('hidden');
-            $("#btnVoltar").removeClass('hidden');
+            $("#btnVoltar").addClass('hidden');
         }
 
         if (etapa == 3) {
@@ -434,9 +433,9 @@ cardapio.metodos = {
 
             var texto = 'Olá! gostaria de fazer um pedido:';
             texto += `\n*Itens do pedido:*\n\n\${itens}`;
-            texto += '\n*Endereço de entrega:*';
             
-            texto += `\n\n*Total (com entrega): R$ ${(VALOR_CARRINHO + VALOR_ENTREGA).toFixed(2).replace('.', ',')}*`;
+            
+            texto += `\n\n*Total: R$ ${(VALOR_CARRINHO + VALOR_ENTREGA).toFixed(2).replace('.', ',')}*`;
 
             var itens = '';
 
